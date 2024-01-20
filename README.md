@@ -8,11 +8,11 @@ This is the introduction.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. This is a sample purpose text.
 
 ## Deployment 
 
 ## How to Contribute
 
-
+Just add lines of code
 
